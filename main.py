@@ -52,10 +52,10 @@ productPrice = float(productPrice[0] + productPrice[1])
 
 # -------------------- SENDING EMAIL -------------------- 
 """email details"""
-MY_EMAIL = "gpython72@gmail.com"
-PASSWORD = "blxfzquksftguoxk"
+MY_EMAIL = "your email"
+PASSWORD = "your password"
 
-receiver = "anshujuly2@gmail.com"
+receiver = "receiver's email"
 
 """variable to store the price at which the product should be bought"""
 preferredPrice = float(14000)
